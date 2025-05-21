@@ -1,6 +1,6 @@
 ## Mô tả 
 
-Hệ thống thương mại điện tử chuyên cung cấp các sản phẩm công nghệ thông tin, thiết bị điện tử và linh kiện máy tính đơn giản sử dụng Laravel áp dụng mô hình Repository-Service Layer Pattern. Hệ thống có các chức năng cơ bản để quản lý sản phẩm, danh mục, đơn hàng và người dùng.
+Hệ thống thương mại điện tử chuyên cung cấp các sản phẩm công nghệ thông tin, thiết bị điện tử và linh kiện máy tính đơn giản sử dụng Laravel. Hệ thống có các chức năng cơ bản để quản lý sản phẩm, danh mục, đơn hàng và người dùng.
 
 ## Yêu cầu kỹ thuật
 
