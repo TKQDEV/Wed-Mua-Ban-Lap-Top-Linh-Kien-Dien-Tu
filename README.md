@@ -5,7 +5,7 @@ Hệ thống thương mại điện tử chuyên cung cấp các sản phẩm c�
 ## Yêu cầu kỹ thuật
 
 1. **Framework**: Laravel (phiên bản mới nhất)
-2. **Design Pattern**: Repository-Service Layer
+2. **Design Pattern**: MVC
 3. **Database**: MySQL
 4. **Frontend**: Blade Template
 
